@@ -1,8 +1,8 @@
 import random
 
-ROCK = 'r'
-PAPER = 'p'
-SCISSORS = 's'
+ROCK = 'rock'
+PAPER = 'paper'
+SCISSORS = 'scissors'
 
 class Player:
     def __init__(self):
